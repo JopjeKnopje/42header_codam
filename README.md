@@ -4,9 +4,7 @@ forked from [42Paris/42header](https://github.com/42Paris/42header)
 
 ### **Description**
 
-42 standard header for vim editor.
-
-![42 header](img/42header.jpg)
+Codam standard header for vim editor.
 
 ### **UNIX Setup**
 
